@@ -1,0 +1,24 @@
+{
+  "NW_Name": "NW",
+  "NE_Name": "NE",
+  "SW_Name": "SW",
+  "SE_Name": "SE",
+
+  "WoodFloor_Name": "Wood Floor",
+  "StoneFloor_Name": "Stone Floor",
+  "WeatheredFloor_Name": "Weathered Floor",
+  "CrystalFloor_Name": "Crystal Floor",
+  "StrawFloor_Name": "Straw Floor",
+  "BrickFloor_Name": "Brick Floor",
+  "RusticPlankFloor_Name": "Rustic Plank Floor",
+  "StoneWalkwayFloor_Name": "Stone Walkway Floor",
+
+  "WoodFloor_Description": "Place on the ground to create paths or to decorate your floors.",
+  "StoneFloor_Description": "Place on the ground to create paths or to spruce up your floors.",
+  "WeatheredFloor_Description": "Place on the ground to create paths or to spruce up your floors.",
+  "CrystalFloor_Description": "Place on the ground to create paths or to spruce up your floors.",
+  "StrawFloor_Description": "Place on the ground to create paths or to spruce up your floors.",
+  "BrickFloor_Description": "Place on the ground to create paths or to decorate your floors.",
+  "RusticPlankFloor_Description": "Place on the ground to create paths or to decorate your floors.",
+  "StoneWalkwayFloor_Description": "Place on the ground to create paths or to decorate your floors.",
+}

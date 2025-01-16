@@ -1,0 +1,10 @@
+﻿{
+  "Format": "2.2.0",
+  "Changes": [
+    {
+      "LogName": "Diagonal Floor Include",
+      "Action": "Include",
+      "FromFile": "Sprites.json, Objects.json, Floors.json, Recipes.json"
+    }
+  ]
+}

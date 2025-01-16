@@ -1,0 +1,364 @@
+﻿{
+  "Changes": [
+    {
+      "LogName": "Diagonal Floor Objects",
+      "Action": "EditData",
+      "Target": "Data/Objects",
+      "Entries": {
+        "JohnPeters.WoodFloor_NW": {
+          "Name": "JohnPeters.WoodFloor_NW",
+          "DisplayName": "{{i18n:WoodFloor_Name}} ({{i18n:NW_Name}})",
+          "Description": "{{i18n:WoodFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/WoodFloorNW",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.WoodFloor_NE": {
+          "Name": "JohnPeters.WoodFloor_NE",
+          "DisplayName": "{{i18n:WoodFloor_Name}} ({{i18n:NE_Name}})",
+          "Description": "{{i18n:WoodFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/WoodFloorNE",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.WoodFloor_SW": {
+          "Name": "JohnPeters.WoodFloor_SW",
+          "DisplayName": "{{i18n:WoodFloor_Name}} ({{i18n:SW_Name}})",
+          "Description": "{{i18n:WoodFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/WoodFloorSW",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.WoodFloor_SE": {
+          "Name": "JohnPeters.WoodFloor_SE",
+          "DisplayName": "{{i18n:WoodFloor_Name}} ({{i18n:SE_Name}})",
+          "Description": "{{i18n:WoodFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/WoodFloorSE",
+          "SpriteIndex": 1
+        },
+        // TODO
+        //"JohnPeters.StoneFloor_NW": {
+        //  "Name": "JohnPeters.StoneFloor_NW",
+        //  "DisplayName": "{{i18n:StoneFloor_Name}} ({{i18n:NW_Name}})",
+        //  "Description": "{{i18n:StoneFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 5
+        //},
+        //"JohnPeters.StoneFloor_NE": {
+        //  "Name": "JohnPeters.StoneFloor_NE",
+        //  "DisplayName": "{{i18n:StoneFloor_Name}} ({{i18n:NE_Name}})",
+        //  "Description": "{{i18n:StoneFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 7
+        //},
+        //"JohnPeters.StoneFloor_SW": {
+        //  "Name": "JohnPeters.StoneFloor_SW",
+        //  "DisplayName": "{{i18n:StoneFloor_Name}} ({{i18n:SW_Name}})",
+        //  "Description": "{{i18n:StoneFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 37
+        //},
+        //"JohnPeters.StoneFloor_SE": {
+        //  "Name": "JohnPeters.StoneFloor_SE",
+        //  "DisplayName": "{{i18n:StoneFloor_Name}} ({{i18n:SE_Name}})",
+        //  "Description": "{{i18n:StoneFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 39
+        //},
+        //"JohnPeters.WeatheredFloor_NW": {
+        //  "Name": "JohnPeters.WeatheredFloor_NW",
+        //  "DisplayName": "{{i18n:WeatheredFloor_Name}} ({{i18n:NW_Name}})",
+        //  "Description": "{{i18n:WeatheredFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 9
+        //},
+        //"JohnPeters.WeatheredFloor_NE": {
+        //  "Name": "JohnPeters.WeatheredFloor_NE",
+        //  "DisplayName": "{{i18n:WeatheredFloor_Name}} ({{i18n:NE_Name}})",
+        //  "Description": "{{i18n:WeatheredFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 11
+        //},
+        //"JohnPeters.WeatheredFloor_SW": {
+        //  "Name": "JohnPeters.WeatheredFloor_SW",
+        //  "DisplayName": "{{i18n:WeatheredFloor_Name}} ({{i18n:SW_Name}})",
+        //  "Description": "{{i18n:WeatheredFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 41
+        //},
+        //"JohnPeters.WeatheredFloor_SE": {
+        //  "Name": "JohnPeters.WeatheredFloor_SE",
+        //  "DisplayName": "{{i18n:WeatheredFloor_Name}} ({{i18n:SE_Name}})",
+        //  "Description": "{{i18n:WeatheredFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 43
+        //},
+        //"JohnPeters.CrystalFloor_NW": {
+        //  "Name": "JohnPeters.CrystalFloor_NW",
+        //  "DisplayName": "{{i18n:CrystalFloor_Name}} ({{i18n:NW_Name}})",
+        //  "Description": "{{i18n:CrystalFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 13
+        //},
+        //"JohnPeters.CrystalFloor_NE": {
+        //  "Name": "JohnPeters.CrystalFloor_NE",
+        //  "DisplayName": "{{i18n:CrystalFloor_Name}} ({{i18n:NE_Name}})",
+        //  "Description": "{{i18n:CrystalFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 15
+        //},
+        //"JohnPeters.CrystalFloor_SW": {
+        //  "Name": "JohnPeters.CrystalFloor_SW",
+        //  "DisplayName": "{{i18n:CrystalFloor_Name}} ({{i18n:SW_Name}})",
+        //  "Description": "{{i18n:CrystalFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 45
+        //},
+        //"JohnPeters.CrystalFloor_SE": {
+        //  "Name": "JohnPeters.CrystalFloor_SE",
+        //  "DisplayName": "{{i18n:CrystalFloor_Name}} ({{i18n:SE_Name}})",
+        //  "Description": "{{i18n:CrystalFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 47
+        //},
+        //"JohnPeters.StrawFloor_NW": {
+        //  "Name": "JohnPeters.StrawFloor_NW",
+        //  "DisplayName": "{{i18n:StrawFloor_Name}} ({{i18n:NW_Name}})",
+        //  "Description": "{{i18n:StrawFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 65
+        //},
+        //"JohnPeters.StrawFloor_NE": {
+        //  "Name": "JohnPeters.StrawFloor_NE",
+        //  "DisplayName": "{{i18n:StrawFloor_Name}} ({{i18n:NE_Name}})",
+        //  "Description": "{{i18n:StrawFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 67
+        //},
+        //"JohnPeters.StrawFloor_SW": {
+        //  "Name": "JohnPeters.StrawFloor_SW",
+        //  "DisplayName": "{{i18n:StrawFloor_Name}} ({{i18n:SW_Name}})",
+        //  "Description": "{{i18n:StrawFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 97
+        //},
+        //"JohnPeters.StrawFloor_SE": {
+        //  "Name": "JohnPeters.StrawFloor_SE",
+        //  "DisplayName": "{{i18n:StrawFloor_Name}} ({{i18n:SE_Name}})",
+        //  "Description": "{{i18n:StrawFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 99
+        //},
+        //"JohnPeters.BrickFloor_NW": {
+        //  "Name": "JohnPeters.BrickFloor_NW",
+        //  "DisplayName": "{{i18n:BrickFloor_Name}} ({{i18n:NW_Name}})",
+        //  "Description": "{{i18n:BrickFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 137
+        //},
+        //"JohnPeters.BrickFloor_NE": {
+        //  "Name": "JohnPeters.BrickFloor_NE",
+        //  "DisplayName": "{{i18n:BrickFloor_Name}} ({{i18n:NE_Name}})",
+        //  "Description": "{{i18n:BrickFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 139
+        //},
+        //"JohnPeters.BrickFloor_SW": {
+        //  "Name": "JohnPeters.BrickFloor_SW",
+        //  "DisplayName": "{{i18n:BrickFloor_Name}} ({{i18n:SW_Name}})",
+        //  "Description": "{{i18n:BrickFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 169
+        //},
+        //"JohnPeters.BrickFloor_SE": {
+        //  "Name": "JohnPeters.BrickFloor_SE",
+        //  "DisplayName": "{{i18n:BrickFloor_Name}} ({{i18n:SE_Name}})",
+        //  "Description": "{{i18n:BrickFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 171
+        //},
+        //"JohnPeters.RusticPlankFloor_NW": {
+        //  "Name": "JohnPeters.RusticPlankFloor_NW",
+        //  "DisplayName": "{{i18n:RusticPlankFloor_Name}} ({{i18n:NW_Name}})",
+        //  "Description": "{{i18n:RusticPlankFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 141
+        //},
+        //"JohnPeters.RusticPlankFloor_NE": {
+        //  "Name": "JohnPeters.RusticPlankFloor_NE",
+        //  "DisplayName": "{{i18n:RusticPlankFloor_Name}} ({{i18n:NE_Name}})",
+        //  "Description": "{{i18n:RusticPlankFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 143
+        //},
+        //"JohnPeters.RusticPlankFloor_SW": {
+        //  "Name": "JohnPeters.RusticPlankFloor_SW",
+        //  "DisplayName": "{{i18n:RusticPlankFloor_Name}} ({{i18n:SW_Name}})",
+        //  "Description": "{{i18n:RusticPlankFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 173
+        //},
+        //"JohnPeters.RusticPlankFloor_SE": {
+        //  "Name": "JohnPeters.RusticPlankFloor_SE",
+        //  "DisplayName": "{{i18n:RusticPlankFloor_Name}} ({{i18n:SE_Name}})",
+        //  "Description": "{{i18n:RusticPlankFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 175
+        //},
+        //"JohnPeters.StoneWalkwayFloor_NW": {
+        //  "Name": "JohnPeters.StoneWalkwayFloor_NW",
+        //  "DisplayName": "{{i18n:StoneWalkwayFloor_Name}} ({{i18n:NW_Name}})",
+        //  "Description": "{{i18n:StoneWalkwayFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 193
+        //},
+        //"JohnPeters.StoneWalkwayFloor_NE": {
+        //  "Name": "JohnPeters.StoneWalkwayFloor_NE",
+        //  "DisplayName": "{{i18n:StoneWalkwayFloor_Name}} ({{i18n:NE_Name}})",
+        //  "Description": "{{i18n:StoneWalkwayFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 195
+        //},
+        //"JohnPeters.StoneWalkwayFloor_SW": {
+        //  "Name": "JohnPeters.StoneWalkwayFloor_SW",
+        //  "DisplayName": "{{i18n:StoneWalkwayFloor_Name}} ({{i18n:SW_Name}})",
+        //  "Description": "{{i18n:StoneWalkwayFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 225
+        //},
+        //"JohnPeters.StoneWalkwayFloor_SE": {
+        //  "Name": "JohnPeters.StoneWalkwayFloor_SE",
+        //  "DisplayName": "{{i18n:StoneWalkwayFloor_Name}} ({{i18n:SE_Name}})",
+        //  "Description": "{{i18n:StoneWalkwayFloor_Description}}",
+        //  "Type": "Crafting",
+        //  "Category": -24,
+        //  "Price": 1,
+        //  "ExcludeFromShippingCollection": true,
+        //  "Texture": "Mods/{{ModId}}/FlooringDiagonal",
+        //  "SpriteIndex": 227
+        //}
+      }
+    }
+  ]
+}

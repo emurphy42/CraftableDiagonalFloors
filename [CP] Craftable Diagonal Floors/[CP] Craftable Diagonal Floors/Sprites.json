@@ -1,0 +1,30 @@
+﻿{
+  "Changes": [
+    {
+      "LogName": "Diagonal Floor Sprite - Wood Floor NW",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/WoodFloorNW",
+      "FromFile": "assets/WoodFloorNW.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Wood Floor NE",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/WoodFloorNE",
+      "FromFile": "assets/WoodFloorNE.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Wood Floor SW",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/WoodFloorSW",
+      "FromFile": "assets/WoodFloorSW.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Wood Floor SE",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/WoodFloorSE",
+      "FromFile": "assets/WoodFloorSE.png"
+    }
+    // TODO stone, weathered, crystal, straw, brick, rustic plank, stone walkway
+    // TODO winter variations
+  ]
+}
