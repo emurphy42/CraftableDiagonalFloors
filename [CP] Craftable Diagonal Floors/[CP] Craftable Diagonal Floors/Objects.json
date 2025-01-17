@@ -312,52 +312,51 @@
           "ExcludeFromShippingCollection": true,
           "Texture": "Mods/{{ModId}}/RusticPlankFloorSE",
           "SpriteIndex": 1
+        },
+        "JohnPeters.StoneWalkwayFloor_NW": {
+          "Name": "JohnPeters.StoneWalkwayFloor_NW",
+          "DisplayName": "{{i18n:StoneWalkwayFloor_Name}} ({{i18n:NW_Name}})",
+          "Description": "{{i18n:StoneWalkwayFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/StoneWalkwayFloorNW",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.StoneWalkwayFloor_NE": {
+          "Name": "JohnPeters.StoneWalkwayFloor_NE",
+          "DisplayName": "{{i18n:StoneWalkwayFloor_Name}} ({{i18n:NE_Name}})",
+          "Description": "{{i18n:StoneWalkwayFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/StoneWalkwayFloorNE",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.StoneWalkwayFloor_SW": {
+          "Name": "JohnPeters.StoneWalkwayFloor_SW",
+          "DisplayName": "{{i18n:StoneWalkwayFloor_Name}} ({{i18n:SW_Name}})",
+          "Description": "{{i18n:StoneWalkwayFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/StoneWalkwayFloorSW",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.StoneWalkwayFloor_SE": {
+          "Name": "JohnPeters.StoneWalkwayFloor_SE",
+          "DisplayName": "{{i18n:StoneWalkwayFloor_Name}} ({{i18n:SE_Name}})",
+          "Description": "{{i18n:StoneWalkwayFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/StoneWalkwayFloorSE",
+          "SpriteIndex": 1
         }
-        // TODO
-        //"JohnPeters.StoneWalkwayFloor_NW": {
-        //  "Name": "JohnPeters.StoneWalkwayFloor_NW",
-        //  "DisplayName": "{{i18n:StoneWalkwayFloor_Name}} ({{i18n:NW_Name}})",
-        //  "Description": "{{i18n:StoneWalkwayFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/StoneWalkwayFloorNW",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.StoneWalkwayFloor_NE": {
-        //  "Name": "JohnPeters.StoneWalkwayFloor_NE",
-        //  "DisplayName": "{{i18n:StoneWalkwayFloor_Name}} ({{i18n:NE_Name}})",
-        //  "Description": "{{i18n:StoneWalkwayFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/StoneWalkwayFloorNE",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.StoneWalkwayFloor_SW": {
-        //  "Name": "JohnPeters.StoneWalkwayFloor_SW",
-        //  "DisplayName": "{{i18n:StoneWalkwayFloor_Name}} ({{i18n:SW_Name}})",
-        //  "Description": "{{i18n:StoneWalkwayFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/StoneWalkwayFloorSW",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.StoneWalkwayFloor_SE": {
-        //  "Name": "JohnPeters.StoneWalkwayFloor_SE",
-        //  "DisplayName": "{{i18n:StoneWalkwayFloor_Name}} ({{i18n:SE_Name}})",
-        //  "Description": "{{i18n:StoneWalkwayFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/StoneWalkwayFloorSE",
-        //  "SpriteIndex": 1
-        //}
       }
     }
   ]

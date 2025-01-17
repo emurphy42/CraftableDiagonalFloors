@@ -10,12 +10,11 @@ namespace CraftableDiagonalFloors
 
         private static readonly List<string> baseRecipes = new()
         {
-            // TODO
             "Brick Floor",
             "Crystal Floor",
             "Rustic Plank Floor",
             "Stone Floor",
-            //"Stone Walkway Floor",
+            "Stone Walkway Floor",
             "Straw Floor",
             "Weathered Floor",
             "Wood Floor"

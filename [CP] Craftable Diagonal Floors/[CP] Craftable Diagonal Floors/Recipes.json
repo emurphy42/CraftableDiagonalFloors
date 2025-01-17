@@ -33,12 +33,11 @@
         "JohnPeters.CraftRusticPlankFloor_NW": "840 1/Field/JohnPeters.RusticPlankFloor_NW 2/false/null/{{i18n:RusticPlankFloor_Name}} ({{i18n:NW_Name}})",
         "JohnPeters.CraftRusticPlankFloor_NE": "840 1/Field/JohnPeters.RusticPlankFloor_NE 2/false/null/{{i18n:RusticPlankFloor_Name}} ({{i18n:NE_Name}})",
         "JohnPeters.CraftRusticPlankFloor_SW": "840 1/Field/JohnPeters.RusticPlankFloor_SW 2/false/null/{{i18n:RusticPlankFloor_Name}} ({{i18n:SW_Name}})",
-        "JohnPeters.CraftRusticPlankFloor_SE": "840 1/Field/JohnPeters.RusticPlankFloor_SE 2/false/null/{{i18n:RusticPlankFloor_Name}} ({{i18n:SE_Name}})"
-        // TODO
-        //"JohnPeters.CraftStoneWalkwayFloor_NW": "841 1/Field/JohnPeters.StoneWalkwayFloor_NW 2/false/null/{{i18n:StoneWalkwayFloor_Name}} ({{i18n:NW_Name}})",
-        //"JohnPeters.CraftStoneWalkwayFloor_NE": "841 1/Field/JohnPeters.StoneWalkwayFloor_NE 2/false/null/{{i18n:StoneWalkwayFloor_Name}} ({{i18n:NE_Name}})",
-        //"JohnPeters.CraftStoneWalkwayFloor_SW": "841 1/Field/JohnPeters.StoneWalkwayFloor_SW 2/false/null/{{i18n:StoneWalkwayFloor_Name}} ({{i18n:SW_Name}})",
-        //"JohnPeters.CraftStoneWalkwayFloor_SE": "841 1/Field/JohnPeters.StoneWalkwayFloor_SE 2/false/null/{{i18n:StoneWalkwayFloor_Name}} ({{i18n:SE_Name}})"
+        "JohnPeters.CraftRusticPlankFloor_SE": "840 1/Field/JohnPeters.RusticPlankFloor_SE 2/false/null/{{i18n:RusticPlankFloor_Name}} ({{i18n:SE_Name}})",
+        "JohnPeters.CraftStoneWalkwayFloor_NW": "841 1/Field/JohnPeters.StoneWalkwayFloor_NW 2/false/null/{{i18n:StoneWalkwayFloor_Name}} ({{i18n:NW_Name}})",
+        "JohnPeters.CraftStoneWalkwayFloor_NE": "841 1/Field/JohnPeters.StoneWalkwayFloor_NE 2/false/null/{{i18n:StoneWalkwayFloor_Name}} ({{i18n:NE_Name}})",
+        "JohnPeters.CraftStoneWalkwayFloor_SW": "841 1/Field/JohnPeters.StoneWalkwayFloor_SW 2/false/null/{{i18n:StoneWalkwayFloor_Name}} ({{i18n:SW_Name}})",
+        "JohnPeters.CraftStoneWalkwayFloor_SE": "841 1/Field/JohnPeters.StoneWalkwayFloor_SE 2/false/null/{{i18n:StoneWalkwayFloor_Name}} ({{i18n:SE_Name}})"
       }
     }
   ]

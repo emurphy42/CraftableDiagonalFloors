@@ -167,8 +167,32 @@
       "Action": "Load",
       "Target": "Mods/{{ModId}}/RusticPlankFloorSE",
       "FromFile": "assets/RusticPlankFloorSE.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Stone Walkway Floor NW",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/StoneWalkwayFloorNW",
+      "FromFile": "assets/StoneWalkwayFloorNW.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Stone Walkway Floor NE",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/StoneWalkwayFloorNE",
+      "FromFile": "assets/StoneWalkwayFloorNE.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Stone Walkway Floor SW",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/StoneWalkwayFloorSW",
+      "FromFile": "assets/StoneWalkwayFloorSW.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Stone Walkway Floor SE",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/StoneWalkwayFloorSE",
+      "FromFile": "assets/StoneWalkwayFloorSE.png"
     }
-    // TODO stone walkway
     // Future improvement: winter variations
+    // Possible future improvement: rounded options
   ]
 }

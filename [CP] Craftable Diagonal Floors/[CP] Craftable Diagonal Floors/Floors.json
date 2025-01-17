@@ -481,9 +481,75 @@
           "ShadowType": 2,
           "CornerSize": 0,
           "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.StoneWalkwayFloor_NW": {
+          "ID": "JohnPeters.StoneWalkwayFloor_NW",
+          "ItemId": "JohnPeters.StoneWalkwayFloor_NW",
+          "Texture": "Mods/{{ModId}}/StoneWalkwayFloorNW",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "stoneStep",
+          "RemovalSound": "hammer",
+          "RemovalDebrisType": 14,
+          "FootstepSound": "stoneStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.StoneWalkwayFloor_NE": {
+          "ID": "JohnPeters.StoneWalkwayFloor_NE",
+          "ItemId": "JohnPeters.StoneWalkwayFloor_NE",
+          "Texture": "Mods/{{ModId}}/StoneWalkwayFloorNE",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "stoneStep",
+          "RemovalSound": "hammer",
+          "RemovalDebrisType": 14,
+          "FootstepSound": "stoneStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.StoneWalkwayFloor_SW": {
+          "ID": "JohnPeters.StoneWalkwayFloor_SW",
+          "ItemId": "JohnPeters.StoneWalkwayFloor_SW",
+          "Texture": "Mods/{{ModId}}/StoneWalkwayFloorSW",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "stoneStep",
+          "RemovalSound": "hammer",
+          "RemovalDebrisType": 14,
+          "FootstepSound": "stoneStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.StoneWalkwayFloor_SE": {
+          "ID": "JohnPeters.StoneWalkwayFloor_SE",
+          "ItemId": "JohnPeters.StoneWalkwayFloor_SE",
+          "Texture": "Mods/{{ModId}}/StoneWalkwayFloorSE",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "stoneStep",
+          "RemovalSound": "hammer",
+          "RemovalDebrisType": 14,
+          "FootstepSound": "stoneStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
         }
-        // TODO stone walkway
-        // stone walkway: same as stone, except PlacementSound = stoneStep
       }
     }
   ]
