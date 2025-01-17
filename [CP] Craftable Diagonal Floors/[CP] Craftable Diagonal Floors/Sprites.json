@@ -23,8 +23,32 @@
       "Action": "Load",
       "Target": "Mods/{{ModId}}/WoodFloorSE",
       "FromFile": "assets/WoodFloorSE.png"
-    }
-    // TODO stone, weathered, crystal, straw, brick, rustic plank, stone walkway
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Stone Floor NW",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/StoneFloorNW",
+      "FromFile": "assets/StoneFloorNW.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Stone Floor NE",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/StoneFloorNE",
+      "FromFile": "assets/StoneFloorNE.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Stone Floor SW",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/StoneFloorSW",
+      "FromFile": "assets/StoneFloorSW.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Stone Floor SE",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/StoneFloorSE",
+      "FromFile": "assets/StoneFloorSE.png"
+    } // ,
+    // TODO weathered, crystal, straw, brick, rustic plank, stone walkway
     // TODO winter variations
   ]
 }
