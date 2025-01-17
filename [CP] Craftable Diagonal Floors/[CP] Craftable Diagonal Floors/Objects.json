@@ -224,52 +224,52 @@
           "ExcludeFromShippingCollection": true,
           "Texture": "Mods/{{ModId}}/StrawFloorSE",
           "SpriteIndex": 1
+        },
+         "JohnPeters.BrickFloor_NW": {
+          "Name": "JohnPeters.BrickFloor_NW",
+          "DisplayName": "{{i18n:BrickFloor_Name}} ({{i18n:NW_Name}})",
+          "Description": "{{i18n:BrickFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/BrickFloorNW",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.BrickFloor_NE": {
+          "Name": "JohnPeters.BrickFloor_NE",
+          "DisplayName": "{{i18n:BrickFloor_Name}} ({{i18n:NE_Name}})",
+          "Description": "{{i18n:BrickFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/BrickFloorNE",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.BrickFloor_SW": {
+          "Name": "JohnPeters.BrickFloor_SW",
+          "DisplayName": "{{i18n:BrickFloor_Name}} ({{i18n:SW_Name}})",
+          "Description": "{{i18n:BrickFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/BrickFloorSW",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.BrickFloor_SE": {
+          "Name": "JohnPeters.BrickFloor_SE",
+          "DisplayName": "{{i18n:BrickFloor_Name}} ({{i18n:SE_Name}})",
+          "Description": "{{i18n:BrickFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/BrickFloorSE",
+          "SpriteIndex": 1
         }
         // TODO
-        // "JohnPeters.BrickFloor_NW": {
-        //  "Name": "JohnPeters.BrickFloor_NW",
-        //  "DisplayName": "{{i18n:BrickFloor_Name}} ({{i18n:NW_Name}})",
-        //  "Description": "{{i18n:BrickFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/BrickFloorNW",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.BrickFloor_NE": {
-        //  "Name": "JohnPeters.BrickFloor_NE",
-        //  "DisplayName": "{{i18n:BrickFloor_Name}} ({{i18n:NE_Name}})",
-        //  "Description": "{{i18n:BrickFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/BrickFloorNE",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.BrickFloor_SW": {
-        //  "Name": "JohnPeters.BrickFloor_SW",
-        //  "DisplayName": "{{i18n:BrickFloor_Name}} ({{i18n:SW_Name}})",
-        //  "Description": "{{i18n:BrickFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/BrickFloorSW",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.BrickFloor_SE": {
-        //  "Name": "JohnPeters.BrickFloor_SE",
-        //  "DisplayName": "{{i18n:BrickFloor_Name}} ({{i18n:SE_Name}})",
-        //  "Description": "{{i18n:BrickFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/BrickFloorSE",
-        //  "SpriteIndex": 1
-        //},
         //"JohnPeters.RusticPlankFloor_NW": {
         //  "Name": "JohnPeters.RusticPlankFloor_NW",
         //  "DisplayName": "{{i18n:RusticPlankFloor_Name}} ({{i18n:NW_Name}})",

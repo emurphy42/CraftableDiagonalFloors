@@ -345,10 +345,77 @@
           "ShadowType": 2,
           "CornerSize": 0,
           "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.BrickFloor_NW": {
+          "ID": "JohnPeters.BrickFloor_NW",
+          "ItemId": "JohnPeters.BrickFloor_NW",
+          "Texture": "Mods/{{ModId}}/BrickFloorNW",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "thudStep",
+          "RemovalSound": "hammer",
+          "RemovalDebrisType": 14,
+          "FootstepSound": "stoneStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.BrickFloor_NE": {
+          "ID": "JohnPeters.BrickFloor_NE",
+          "ItemId": "JohnPeters.BrickFloor_NE",
+          "Texture": "Mods/{{ModId}}/BrickFloorNE",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "thudStep",
+          "RemovalSound": "hammer",
+          "RemovalDebrisType": 14,
+          "FootstepSound": "stoneStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.BrickFloor_SW": {
+          "ID": "JohnPeters.BrickFloor_SW",
+          "ItemId": "JohnPeters.BrickFloor_SW",
+          "Texture": "Mods/{{ModId}}/BrickFloorSW",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "thudStep",
+          "RemovalSound": "hammer",
+          "RemovalDebrisType": 14,
+          "FootstepSound": "stoneStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.BrickFloor_SE": {
+          "ID": "JohnPeters.BrickFloor_SE",
+          "ItemId": "JohnPeters.BrickFloor_SE",
+          "Texture": "Mods/{{ModId}}/BrickFloorSE",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "thudStep",
+          "RemovalSound": "hammer",
+          "RemovalDebrisType": 14,
+          "FootstepSound": "stoneStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
         }
-        // TODO brick, rustic plank, stone walkway
+        // TODO rustic plank, stone walkway
         // rustic plank: same as wood
-        // brick: same as stone
         // stone walkway: same as stone, except PlacementSound = stoneStep
       }
     }

@@ -119,8 +119,32 @@
       "Action": "Load",
       "Target": "Mods/{{ModId}}/StrawFloorSE",
       "FromFile": "assets/StrawFloorSE.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Brick Floor NW",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/BrickFloorNW",
+      "FromFile": "assets/BrickFloorNW.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Brick Floor NE",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/BrickFloorNE",
+      "FromFile": "assets/BrickFloorNE.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Brick Floor SW",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/BrickFloorSW",
+      "FromFile": "assets/BrickFloorSW.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Brick Floor SE",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/BrickFloorSE",
+      "FromFile": "assets/BrickFloorSE.png"
     }
-    // TODO brick, rustic plank, stone walkway
+    // TODO rustic plank, stone walkway
     // TODO winter variations
   ]
 }
