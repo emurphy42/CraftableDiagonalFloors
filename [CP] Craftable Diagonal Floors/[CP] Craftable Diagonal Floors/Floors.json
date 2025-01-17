@@ -413,9 +413,76 @@
           "ShadowType": 2,
           "CornerSize": 0,
           "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.RusticPlankFloor_NW": {
+          "ID": "JohnPeters.RusticPlankFloor_NW",
+          "ItemId": "JohnPeters.RusticPlankFloor_NW",
+          "Texture": "Mods/{{ModId}}/RusticPlankFloorNW",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "axchop",
+          "RemovalSound": null,
+          "RemovalDebrisType": 12,
+          "FootstepSound": "woodyStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.RusticPlankFloor_NE": {
+          "ID": "JohnPeters.RusticPlankFloor_NE",
+          "ItemId": "JohnPeters.RusticPlankFloor_NE",
+          "Texture": "Mods/{{ModId}}/RusticPlankFloorNE",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "axchop",
+          "RemovalSound": null,
+          "RemovalDebrisType": 12,
+          "FootstepSound": "woodyStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.RusticPlankFloor_SW": {
+          "ID": "JohnPeters.RusticPlankFloor_SW",
+          "ItemId": "JohnPeters.RusticPlankFloor_SW",
+          "Texture": "Mods/{{ModId}}/RusticPlankFloorSW",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "axchop",
+          "RemovalSound": null,
+          "RemovalDebrisType": 12,
+          "FootstepSound": "woodyStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.RusticPlankFloor_SE": {
+          "ID": "JohnPeters.RusticPlankFloor_SE",
+          "ItemId": "JohnPeters.RusticPlankFloor_SE",
+          "Texture": "Mods/{{ModId}}/RusticPlankFloorSE",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "axchop",
+          "RemovalSound": null,
+          "RemovalDebrisType": 12,
+          "FootstepSound": "woodyStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
         }
-        // TODO rustic plank, stone walkway
-        // rustic plank: same as wood
+        // TODO stone walkway
         // stone walkway: same as stone, except PlacementSound = stoneStep
       }
     }

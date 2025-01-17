@@ -268,52 +268,52 @@
           "ExcludeFromShippingCollection": true,
           "Texture": "Mods/{{ModId}}/BrickFloorSE",
           "SpriteIndex": 1
+        },
+        "JohnPeters.RusticPlankFloor_NW": {
+          "Name": "JohnPeters.RusticPlankFloor_NW",
+          "DisplayName": "{{i18n:RusticPlankFloor_Name}} ({{i18n:NW_Name}})",
+          "Description": "{{i18n:RusticPlankFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/RusticPlankFloorNW",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.RusticPlankFloor_NE": {
+          "Name": "JohnPeters.RusticPlankFloor_NE",
+          "DisplayName": "{{i18n:RusticPlankFloor_Name}} ({{i18n:NE_Name}})",
+          "Description": "{{i18n:RusticPlankFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/RusticPlankFloorNE",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.RusticPlankFloor_SW": {
+          "Name": "JohnPeters.RusticPlankFloor_SW",
+          "DisplayName": "{{i18n:RusticPlankFloor_Name}} ({{i18n:SW_Name}})",
+          "Description": "{{i18n:RusticPlankFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/RusticPlankFloorSW",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.RusticPlankFloor_SE": {
+          "Name": "JohnPeters.RusticPlankFloor_SE",
+          "DisplayName": "{{i18n:RusticPlankFloor_Name}} ({{i18n:SE_Name}})",
+          "Description": "{{i18n:RusticPlankFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/RusticPlankFloorSE",
+          "SpriteIndex": 1
         }
         // TODO
-        //"JohnPeters.RusticPlankFloor_NW": {
-        //  "Name": "JohnPeters.RusticPlankFloor_NW",
-        //  "DisplayName": "{{i18n:RusticPlankFloor_Name}} ({{i18n:NW_Name}})",
-        //  "Description": "{{i18n:RusticPlankFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/RusticPlankFloorNW",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.RusticPlankFloor_NE": {
-        //  "Name": "JohnPeters.RusticPlankFloor_NE",
-        //  "DisplayName": "{{i18n:RusticPlankFloor_Name}} ({{i18n:NE_Name}})",
-        //  "Description": "{{i18n:RusticPlankFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/RusticPlankFloorNE",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.RusticPlankFloor_SW": {
-        //  "Name": "JohnPeters.RusticPlankFloor_SW",
-        //  "DisplayName": "{{i18n:RusticPlankFloor_Name}} ({{i18n:SW_Name}})",
-        //  "Description": "{{i18n:RusticPlankFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/RusticPlankFloorSW",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.RusticPlankFloor_SE": {
-        //  "Name": "JohnPeters.RusticPlankFloor_SE",
-        //  "DisplayName": "{{i18n:RusticPlankFloor_Name}} ({{i18n:SE_Name}})",
-        //  "Description": "{{i18n:RusticPlankFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/RusticPlankFloorSE",
-        //  "SpriteIndex": 1
-        //},
         //"JohnPeters.StoneWalkwayFloor_NW": {
         //  "Name": "JohnPeters.StoneWalkwayFloor_NW",
         //  "DisplayName": "{{i18n:StoneWalkwayFloor_Name}} ({{i18n:NW_Name}})",

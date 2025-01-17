@@ -143,8 +143,32 @@
       "Action": "Load",
       "Target": "Mods/{{ModId}}/BrickFloorSE",
       "FromFile": "assets/BrickFloorSE.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Rustic Plank Floor NW",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/RusticPlankFloorNW",
+      "FromFile": "assets/RusticPlankFloorNW.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Rustic Plank Floor NE",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/RusticPlankFloorNE",
+      "FromFile": "assets/RusticPlankFloorNE.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Rustic Plank Floor SW",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/RusticPlankFloorSW",
+      "FromFile": "assets/RusticPlankFloorSW.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Rustic Plank Floor SE",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/RusticPlankFloorSE",
+      "FromFile": "assets/RusticPlankFloorSE.png"
     }
-    // TODO rustic plank, stone walkway
-    // TODO winter variations
+    // TODO stone walkway
+    // Future improvement: winter variations
   ]
 }

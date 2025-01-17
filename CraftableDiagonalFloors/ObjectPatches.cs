@@ -13,7 +13,7 @@ namespace CraftableDiagonalFloors
             // TODO
             "Brick Floor",
             "Crystal Floor",
-            //"Rustic Plank Floor",
+            "Rustic Plank Floor",
             "Stone Floor",
             //"Stone Walkway Floor",
             "Straw Floor",
