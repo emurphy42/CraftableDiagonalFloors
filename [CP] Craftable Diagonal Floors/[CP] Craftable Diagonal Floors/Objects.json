@@ -180,53 +180,53 @@
           "ExcludeFromShippingCollection": true,
           "Texture": "Mods/{{ModId}}/CrystalFloorSE",
           "SpriteIndex": 1
+        },
+        "JohnPeters.StrawFloor_NW": {
+          "Name": "JohnPeters.StrawFloor_NW",
+          "DisplayName": "{{i18n:StrawFloor_Name}} ({{i18n:NW_Name}})",
+          "Description": "{{i18n:StrawFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/StrawFloorNW",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.StrawFloor_NE": {
+          "Name": "JohnPeters.StrawFloor_NE",
+          "DisplayName": "{{i18n:StrawFloor_Name}} ({{i18n:NE_Name}})",
+          "Description": "{{i18n:StrawFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/StrawFloorNE",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.StrawFloor_SW": {
+          "Name": "JohnPeters.StrawFloor_SW",
+          "DisplayName": "{{i18n:StrawFloor_Name}} ({{i18n:SW_Name}})",
+          "Description": "{{i18n:StrawFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/StrawFloorSW",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.StrawFloor_SE": {
+          "Name": "JohnPeters.StrawFloor_SE",
+          "DisplayName": "{{i18n:StrawFloor_Name}} ({{i18n:SE_Name}})",
+          "Description": "{{i18n:StrawFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/StrawFloorSE",
+          "SpriteIndex": 1
         }
         // TODO
-        // "JohnPeters.StrawFloor_NW": {
-        //  "Name": "JohnPeters.StrawFloor_NW",
-        //  "DisplayName": "{{i18n:StrawFloor_Name}} ({{i18n:NW_Name}})",
-        //  "Description": "{{i18n:StrawFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/StrawFloorNW",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.StrawFloor_NE": {
-        //  "Name": "JohnPeters.StrawFloor_NE",
-        //  "DisplayName": "{{i18n:StrawFloor_Name}} ({{i18n:NE_Name}})",
-        //  "Description": "{{i18n:StrawFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/StrawFloorNE",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.StrawFloor_SW": {
-        //  "Name": "JohnPeters.StrawFloor_SW",
-        //  "DisplayName": "{{i18n:StrawFloor_Name}} ({{i18n:SW_Name}})",
-        //  "Description": "{{i18n:StrawFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/StrawFloorSW",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.StrawFloor_SE": {
-        //  "Name": "JohnPeters.StrawFloor_SE",
-        //  "DisplayName": "{{i18n:StrawFloor_Name}} ({{i18n:SE_Name}})",
-        //  "Description": "{{i18n:StrawFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/StrawFloorSE",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.BrickFloor_NW": {
+        // "JohnPeters.BrickFloor_NW": {
         //  "Name": "JohnPeters.BrickFloor_NW",
         //  "DisplayName": "{{i18n:BrickFloor_Name}} ({{i18n:NW_Name}})",
         //  "Description": "{{i18n:BrickFloor_Description}}",

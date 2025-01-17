@@ -277,11 +277,78 @@
           "ShadowType": 2,
           "CornerSize": 0,
           "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.StrawFloor_NW": {
+          "ID": "JohnPeters.StrawFloor_NW",
+          "ItemId": "JohnPeters.StrawFloor_NW",
+          "Texture": "Mods/{{ModId}}/StrawFloorNW",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "axchop",
+          "RemovalSound": null,
+          "RemovalDebrisType": 14,
+          "FootstepSound": "woodyStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.StrawFloor_NE": {
+          "ID": "JohnPeters.StrawFloor_NE",
+          "ItemId": "JohnPeters.StrawFloor_NE",
+          "Texture": "Mods/{{ModId}}/StrawFloorNE",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "axchop",
+          "RemovalSound": null,
+          "RemovalDebrisType": 14,
+          "FootstepSound": "woodyStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.StrawFloor_SW": {
+          "ID": "JohnPeters.StrawFloor_SW",
+          "ItemId": "JohnPeters.StrawFloor_SW",
+          "Texture": "Mods/{{ModId}}/StrawFloorSW",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "axchop",
+          "RemovalSound": null,
+          "RemovalDebrisType": 14,
+          "FootstepSound": "woodyStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.StrawFloor_SE": {
+          "ID": "JohnPeters.StrawFloor_SE",
+          "ItemId": "JohnPeters.StrawFloor_SE",
+          "Texture": "Mods/{{ModId}}/StrawFloorSE",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "axchop",
+          "RemovalSound": null,
+          "RemovalDebrisType": 14,
+          "FootstepSound": "woodyStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
         }
-        // TODO straw, brick, rustic plank, stone walkway
+        // TODO brick, rustic plank, stone walkway
         // rustic plank: same as wood
         // brick: same as stone
-        // straw: same as wood, except RemovalDebrisType = 14
         // stone walkway: same as stone, except PlacementSound = stoneStep
       }
     }
