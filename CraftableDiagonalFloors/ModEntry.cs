@@ -15,7 +15,7 @@ namespace CraftableDiagonalFloors
             "Stone Floor",
             //"Stone Walkway Floor",
             //"Straw Floor",
-            //"Weathered Floor",
+            "Weathered Floor",
             "Wood Floor"
         };
 

@@ -141,9 +141,77 @@
           "ShadowType": 2,
           "CornerSize": 0,
           "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.WeatheredFloor_NW": {
+          "ID": "JohnPeters.WeatheredFloor_NW",
+          "ItemId": "JohnPeters.WeatheredFloor_NW",
+          "Texture": "Mods/{{ModId}}/WeatheredFloorNW",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "axchop",
+          "RemovalSound": null,
+          "RemovalDebrisType": 12,
+          "FootstepSound": "woodyStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.WeatheredFloor_NE": {
+          "ID": "JohnPeters.WeatheredFloor_NE",
+          "ItemId": "JohnPeters.WeatheredFloor_NE",
+          "Texture": "Mods/{{ModId}}/WeatheredFloorNE",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "axchop",
+          "RemovalSound": null,
+          "RemovalDebrisType": 12,
+          "FootstepSound": "woodyStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.WeatheredFloor_SW": {
+          "ID": "JohnPeters.WeatheredFloor_SW",
+          "ItemId": "JohnPeters.WeatheredFloor_SW",
+          "Texture": "Mods/{{ModId}}/WeatheredFloorSW",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "axchop",
+          "RemovalSound": null,
+          "RemovalDebrisType": 12,
+          "FootstepSound": "woodyStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.WeatheredFloor_SE": {
+          "ID": "JohnPeters.WeatheredFloor_SE",
+          "ItemId": "JohnPeters.WeatheredFloor_SE",
+          "Texture": "Mods/{{ModId}}/WeatheredFloorSE",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "axchop",
+          "RemovalSound": null,
+          "RemovalDebrisType": 12,
+          "FootstepSound": "woodyStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
         }
-        // TODO weathered, crystal, straw, brick, rustic plank, stone walkway
-        // weathered, rustic plank: same as wood
+        // TODO crystal, straw, brick, rustic plank, stone walkway
+        // rustic plank: same as wood
         // crystal: same as stone, except FootstepSound = thudStep
         // brick: same as stone
         // straw: same as wood, except RemovalDebrisType = 14

@@ -47,8 +47,32 @@
       "Action": "Load",
       "Target": "Mods/{{ModId}}/StoneFloorSE",
       "FromFile": "assets/StoneFloorSE.png"
-    } // ,
-    // TODO weathered, crystal, straw, brick, rustic plank, stone walkway
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Weathered Floor NW",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/WeatheredFloorNW",
+      "FromFile": "assets/WeatheredFloorNW.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Weathered Floor NE",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/WeatheredFloorNE",
+      "FromFile": "assets/WeatheredFloorNE.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Weathered Floor SW",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/WeatheredFloorSW",
+      "FromFile": "assets/WeatheredFloorSW.png"
+    },
+    {
+      "LogName": "Diagonal Floor Sprite - Weathered Floor SE",
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/WeatheredFloorSE",
+      "FromFile": "assets/WeatheredFloorSE.png"
+    }
+    // TODO crystal, straw, brick, rustic plank, stone walkway
     // TODO winter variations
   ]
 }

@@ -92,52 +92,52 @@
           "ExcludeFromShippingCollection": true,
           "Texture": "Mods/{{ModId}}/StoneFloorSE",
           "SpriteIndex": 1
-        } // ,
+        },
+        "JohnPeters.WeatheredFloor_NW": {
+          "Name": "JohnPeters.WeatheredFloor_NW",
+          "DisplayName": "{{i18n:WeatheredFloor_Name}} ({{i18n:NW_Name}})",
+          "Description": "{{i18n:WeatheredFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/WeatheredFloorNW",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.WeatheredFloor_NE": {
+          "Name": "JohnPeters.WeatheredFloor_NE",
+          "DisplayName": "{{i18n:WeatheredFloor_Name}} ({{i18n:NE_Name}})",
+          "Description": "{{i18n:WeatheredFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/WeatheredFloorNE",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.WeatheredFloor_SW": {
+          "Name": "JohnPeters.WeatheredFloor_SW",
+          "DisplayName": "{{i18n:WeatheredFloor_Name}} ({{i18n:SW_Name}})",
+          "Description": "{{i18n:WeatheredFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/WeatheredFloorSW",
+          "SpriteIndex": 1
+        },
+        "JohnPeters.WeatheredFloor_SE": {
+          "Name": "JohnPeters.WeatheredFloor_SE",
+          "DisplayName": "{{i18n:WeatheredFloor_Name}} ({{i18n:SE_Name}})",
+          "Description": "{{i18n:WeatheredFloor_Description}}",
+          "Type": "Crafting",
+          "Category": -24,
+          "Price": 1,
+          "ExcludeFromShippingCollection": true,
+          "Texture": "Mods/{{ModId}}/WeatheredFloorSE",
+          "SpriteIndex": 1
+        }
         // TODO
-        //"JohnPeters.WeatheredFloor_NW": {
-        //  "Name": "JohnPeters.WeatheredFloor_NW",
-        //  "DisplayName": "{{i18n:WeatheredFloor_Name}} ({{i18n:NW_Name}})",
-        //  "Description": "{{i18n:WeatheredFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/WeatheredFloorNW",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.WeatheredFloor_NE": {
-        //  "Name": "JohnPeters.WeatheredFloor_NE",
-        //  "DisplayName": "{{i18n:WeatheredFloor_Name}} ({{i18n:NE_Name}})",
-        //  "Description": "{{i18n:WeatheredFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/WeatheredFloorNE",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.WeatheredFloor_SW": {
-        //  "Name": "JohnPeters.WeatheredFloor_SW",
-        //  "DisplayName": "{{i18n:WeatheredFloor_Name}} ({{i18n:SW_Name}})",
-        //  "Description": "{{i18n:WeatheredFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/WeatheredFloorSW",
-        //  "SpriteIndex": 1
-        //},
-        //"JohnPeters.WeatheredFloor_SE": {
-        //  "Name": "JohnPeters.WeatheredFloor_SE",
-        //  "DisplayName": "{{i18n:WeatheredFloor_Name}} ({{i18n:SE_Name}})",
-        //  "Description": "{{i18n:WeatheredFloor_Description}}",
-        //  "Type": "Crafting",
-        //  "Category": -24,
-        //  "Price": 1,
-        //  "ExcludeFromShippingCollection": true,
-        //  "Texture": "Mods/{{ModId}}/WeatheredFloorSE",
-        //  "SpriteIndex": 1
-        //},
         //"JohnPeters.CrystalFloor_NW": {
         //  "Name": "JohnPeters.CrystalFloor_NW",
         //  "DisplayName": "{{i18n:CrystalFloor_Name}} ({{i18n:NW_Name}})",
