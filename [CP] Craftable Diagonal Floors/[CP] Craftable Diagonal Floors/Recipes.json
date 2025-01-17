@@ -17,12 +17,12 @@
         "JohnPeters.CraftWeatheredFloor_NW": "331 1/Field/JohnPeters.WeatheredFloor_NW 2/false/null/{{i18n:WeatheredFloor_Name}} ({{i18n:NW_Name}})",
         "JohnPeters.CraftWeatheredFloor_NE": "331 1/Field/JohnPeters.WeatheredFloor_NE 2/false/null/{{i18n:WeatheredFloor_Name}} ({{i18n:NE_Name}})",
         "JohnPeters.CraftWeatheredFloor_SW": "331 1/Field/JohnPeters.WeatheredFloor_SW 2/false/null/{{i18n:WeatheredFloor_Name}} ({{i18n:SW_Name}})",
-        "JohnPeters.CraftWeatheredFloor_SE": "331 1/Field/JohnPeters.WeatheredFloor_SE 2/false/null/{{i18n:WeatheredFloor_Name}} ({{i18n:SE_Name}})"
+        "JohnPeters.CraftWeatheredFloor_SE": "331 1/Field/JohnPeters.WeatheredFloor_SE 2/false/null/{{i18n:WeatheredFloor_Name}} ({{i18n:SE_Name}})",
+        "JohnPeters.CraftCrystalFloor_NW": "333 1/Field/JohnPeters.CrystalFloor_NW 2/false/null/{{i18n:CrystalFloor_Name}} ({{i18n:NW_Name}})",
+        "JohnPeters.CraftCrystalFloor_NE": "333 1/Field/JohnPeters.CrystalFloor_NE 2/false/null/{{i18n:CrystalFloor_Name}} ({{i18n:NE_Name}})",
+        "JohnPeters.CraftCrystalFloor_SW": "333 1/Field/JohnPeters.CrystalFloor_SW 2/false/null/{{i18n:CrystalFloor_Name}} ({{i18n:SW_Name}})",
+        "JohnPeters.CraftCrystalFloor_SE": "333 1/Field/JohnPeters.CrystalFloor_SE 2/false/null/{{i18n:CrystalFloor_Name}} ({{i18n:SE_Name}})"
         // TODO
-        //"JohnPeters.CraftCrystalFloor_NW": "333 1/Field/JohnPeters.CrystalFloor_NW 2/false/null/{{i18n:CrystalFloor_Name}} ({{i18n:NW_Name}})",
-        //"JohnPeters.CraftCrystalFloor_NE": "333 1/Field/JohnPeters.CrystalFloor_NE 2/false/null/{{i18n:CrystalFloor_Name}} ({{i18n:NE_Name}})",
-        //"JohnPeters.CraftCrystalFloor_SW": "333 1/Field/JohnPeters.CrystalFloor_SW 2/false/null/{{i18n:CrystalFloor_Name}} ({{i18n:SW_Name}})",
-        //"JohnPeters.CraftCrystalFloor_SE": "333 1/Field/JohnPeters.CrystalFloor_SE 2/false/null/{{i18n:CrystalFloor_Name}} ({{i18n:SE_Name}})",
         //"JohnPeters.CraftStrawFloor_NW": "401 1/Field/JohnPeters.StrawFloor_NW 2/false/null/{{i18n:StrawFloor_Name}} ({{i18n:NW_Name}})",
         //"JohnPeters.CraftStrawFloor_NE": "401 1/Field/JohnPeters.StrawFloor_NE 2/false/null/{{i18n:StrawFloor_Name}} ({{i18n:NE_Name}})",
         //"JohnPeters.CraftStrawFloor_SW": "401 1/Field/JohnPeters.StrawFloor_SW 2/false/null/{{i18n:StrawFloor_Name}} ({{i18n:SW_Name}})",

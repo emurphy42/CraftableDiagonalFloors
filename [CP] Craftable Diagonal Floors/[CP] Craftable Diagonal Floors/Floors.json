@@ -209,10 +209,77 @@
           "ShadowType": 2,
           "CornerSize": 0,
           "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.CrystalFloor_NW": {
+          "ID": "JohnPeters.CrystalFloor_NW",
+          "ItemId": "JohnPeters.CrystalFloor_NW",
+          "Texture": "Mods/{{ModId}}/CrystalFloorNW",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "thudStep",
+          "RemovalSound": "hammer",
+          "RemovalDebrisType": 14,
+          "FootstepSound": "thudStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.CrystalFloor_NE": {
+          "ID": "JohnPeters.CrystalFloor_NE",
+          "ItemId": "JohnPeters.CrystalFloor_NE",
+          "Texture": "Mods/{{ModId}}/CrystalFloorNE",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "thudStep",
+          "RemovalSound": "hammer",
+          "RemovalDebrisType": 14,
+          "FootstepSound": "thudStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.CrystalFloor_SW": {
+          "ID": "JohnPeters.CrystalFloor_SW",
+          "ItemId": "JohnPeters.CrystalFloor_SW",
+          "Texture": "Mods/{{ModId}}/CrystalFloorSW",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "thudStep",
+          "RemovalSound": "hammer",
+          "RemovalDebrisType": 14,
+          "FootstepSound": "thudStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
+        },
+        "JohnPeters.CrystalFloor_SE": {
+          "ID": "JohnPeters.CrystalFloor_SE",
+          "ItemId": "JohnPeters.CrystalFloor_SE",
+          "Texture": "Mods/{{ModId}}/CrystalFloorSE",
+          "Corner": {
+            "X": 0,
+            "Y": 0
+          },
+          "PlacementSound": "thudStep",
+          "RemovalSound": "hammer",
+          "RemovalDebrisType": 14,
+          "FootstepSound": "thudStep",
+          "ConnectType": 0,
+          "ShadowType": 2,
+          "CornerSize": 0,
+          "FarmSpeedBuff": 0.1
         }
-        // TODO crystal, straw, brick, rustic plank, stone walkway
+        // TODO straw, brick, rustic plank, stone walkway
         // rustic plank: same as wood
-        // crystal: same as stone, except FootstepSound = thudStep
         // brick: same as stone
         // straw: same as wood, except RemovalDebrisType = 14
         // stone walkway: same as stone, except PlacementSound = stoneStep

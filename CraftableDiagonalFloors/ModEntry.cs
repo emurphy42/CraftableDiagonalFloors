@@ -10,7 +10,7 @@ namespace CraftableDiagonalFloors
         {
             // TODO
             //"Brick Floor",
-            //"Crystal Floor",
+            "Crystal Floor",
             //"Rustic Plank Floor",
             "Stone Floor",
             //"Stone Walkway Floor",
@@ -36,8 +36,10 @@ namespace CraftableDiagonalFloors
 
         private void OnSaveLoaded(object? _sender, SaveLoadedEventArgs _e)
         {
+            this.Monitor.Log("[Craftable Diagonal Floors] Checking crafting recipes", LogLevel.Trace);
             foreach (var baseRecipe in baseRecipes)
             {
+                this.Monitor.Log($"[Craftable Diagonal Floors] baseRecipe = {baseRecipe}", LogLevel.Trace);
                 if (Game1.player.knowsRecipe(baseRecipe))
                 {
                     LearnRecipeVariations(baseRecipe);
@@ -45,14 +47,16 @@ namespace CraftableDiagonalFloors
             }
         }
 
-        private static void LearnRecipeVariations(string baseRecipe)
+        private void LearnRecipeVariations(string baseRecipe)
         {
             var normalizedBaseRecipe = baseRecipe.Replace(" ", "");
             foreach (var recipeVariation in recipeVariations)
             {
                 var moddedRecipe = $"JohnPeters.Craft{normalizedBaseRecipe}_{recipeVariation}";
+                this.Monitor.Log($"[Craftable Diagonal Floors] moddedRecipe = {moddedRecipe}", LogLevel.Trace);
                 if (!Game1.player.knowsRecipe(moddedRecipe))
                 {
+                    this.Monitor.Log($"[Craftable Diagonal Floors] Adding recipe {moddedRecipe}", LogLevel.Debug);
                     Game1.player.craftingRecipes.Add(moddedRecipe, 0); // 0 = number of times crafted
                 }
             }
