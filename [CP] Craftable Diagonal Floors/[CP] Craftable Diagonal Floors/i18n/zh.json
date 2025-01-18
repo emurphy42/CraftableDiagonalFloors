@@ -1,0 +1,24 @@
+{
+  "NW_Name": "西北",
+  "NE_Name": "东北",
+  "SW_Name": "西南",
+  "SE_Name": "东南",
+
+  "WoodFloor_Name": "木质地板",
+  "StoneFloor_Name": "石质地板",
+  "WeatheredFloor_Name": "风化地板",
+  "CrystalFloor_Name": "水晶地板",
+  "StrawFloor_Name": "稻草地板",
+  "BrickFloor_Name": "砖砌地板",
+  "RusticPlankFloor_Name": "乡村木质地板",
+  "StoneWalkwayFloor_Name": "石质走道地板",
+
+  "WoodFloor_Description": "放置在地面上,可铺设道路或装饰地板.",
+  "StoneFloor_Description": "放置在地面上,可铺设道路或美化地板.",
+  "WeatheredFloor_Description": "放置在地面上,可铺设道路或美化地板.",
+  "CrystalFloor_Description": "放置在地面上,可铺设道路或美化地板.",
+  "StrawFloor_Description": "放置在地面上,可铺设道路或美化地板.",
+  "BrickFloor_Description": "放置在地面上,可铺设道路或装饰地板.",
+  "RusticPlankFloor_Description": "放置在地面上,可铺设道路或装饰地板.",
+  "StoneWalkwayFloor_Description": "放置在地面上,可铺设道路或装饰地板.",
+}
