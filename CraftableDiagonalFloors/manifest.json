@@ -1,7 +1,7 @@
 {
   "Name": "Craftable Diagonal Floors",
   "Author": "John Peters (you know, the farmer?)",
-  "Version": "0.9.0",
+  "Version": "0.9.1",
   "Description": "Adds diagonal floor tiles that can be crafted from regular ones.",
   "UniqueID": "JohnPeters.CraftableDiagonalFloors",
   "EntryDll": "CraftableDiagonalFloors.dll",
