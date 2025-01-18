@@ -6,7 +6,7 @@
   "UniqueID": "JohnPeters.CraftableDiagonalFloors",
   "EntryDll": "CraftableDiagonalFloors.dll",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [ "Nexus:???" ],
+  "UpdateKeys": [ "Nexus:30966" ],
   "Dependencies": [
     {
       "UniqueID": "Pathoschild.ContentPatcher",

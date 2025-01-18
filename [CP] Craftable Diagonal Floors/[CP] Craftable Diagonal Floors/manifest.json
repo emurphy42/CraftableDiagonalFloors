@@ -5,7 +5,7 @@
   "Description": "Adds diagonal floor tiles that can be crafted from regular ones.",
   "UniqueID": "JohnPeters.CraftableDiagonalFloorsCP",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [ "Nexus:???" ],
+  "UpdateKeys": [ "Nexus:30966" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher",
    }
